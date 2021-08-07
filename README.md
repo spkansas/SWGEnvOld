@@ -1,0 +1,2 @@
+# SWGEnv
+Complete SWGEmu Environment 
