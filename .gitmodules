@@ -1,0 +1,3 @@
+[submodule "Core3"]
+	path = Core3
+	url = https://github.com/spkansas/SWGCore3.git
