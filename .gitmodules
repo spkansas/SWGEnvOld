@@ -1,3 +1,6 @@
 [submodule "Core3"]
 	path = Core3
 	url = https://github.com/spkansas/SWGCore3.git
+[submodule "GalaxyHarvester"]
+	path = GalaxyHarvester
+	url = git@github.com:spkansas/SWGGHarv.git
